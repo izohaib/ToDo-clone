@@ -31,3 +31,12 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Additional from GitHub side
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
