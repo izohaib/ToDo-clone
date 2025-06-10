@@ -26,8 +26,6 @@ A beautifully crafted **To-Do List App** built using **Jetpack Compose**, inspir
 |------------------|---------------------|
 | ![Reminder](https://i.postimg.cc/7YZ39H6H/photo-3-2025-06-10-12-52-32.jpg) | ![Update Screen](https://i.postimg.cc/W45FhrG0/update.jpg) |
 
-> 📌 **Tip:** If images don’t appear in a row, try viewing on desktop. GitHub mobile may stack them vertically.
-
 ---
 
 ## 🚀 Features Breakdown
@@ -39,7 +37,7 @@ A beautifully crafted **To-Do List App** built using **Jetpack Compose**, inspir
 - Auto-login detection and redirection to Home screen
 
 ### ➕ Task Creation & Editing
-- Add task with title, description, optional image/video attachment
+- Add task with title, description, image/video attachment
 - Bottom Sheet UI with expandable advanced options
 - Modify tasks anytime: notes, media, repeat, due date, reminders
 - Add subtasks or steps for detailed workflows
